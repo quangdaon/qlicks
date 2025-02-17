@@ -1,0 +1,15 @@
+:root {
+  font-size: 24px;
+}
+
+body {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+html, body {
+  height: 100%;
+}
